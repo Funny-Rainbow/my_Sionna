@@ -1,7 +1,7 @@
 # Sionna 0.19.0
 
 ## Installation
-1. **!!! Native Windows Does Not Support NVIDIA GPU Acceleration !!!**  
+**!!! Native Windows Does Not Support NVIDIA GPU Acceleration !!!**  
 Sionna requires Tensorflow>=2.13. However, starting in TF 2.11, CUDA build is not supported for Windows.
 
 Possible Solution:
