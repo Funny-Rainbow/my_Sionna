@@ -5,6 +5,6 @@
 Sionna requires Tensorflow>=2.13. However, starting in TF 2.11, CUDA build is not supported for Windows.
 
 Possible Solution:
-Docker container
-Use earlier version of TF, which is not recommanded because of known, unpatched CVEs.
-Use WSL
+* Docker container
+* Use earlier version of TF, which is not recommanded because of known, unpatched CVEs.
+* Use WSL
