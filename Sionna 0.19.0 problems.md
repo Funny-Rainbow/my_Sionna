@@ -8,4 +8,4 @@ Possible Solution:
 * Docker container
 * Use earlier version of TF, which is not recommanded because of known, unpatched CVEs.
 * Use WSL
-* Use another OS
+* Use Linux
