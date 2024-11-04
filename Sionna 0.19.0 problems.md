@@ -9,7 +9,7 @@ Possible Solution:
 * Use Linux (Most convenient and recommanded!)
 * Docker container (You may choose [NVIDIA official Docker](https://developer.nvidia.com/blog/nvidia-docker-gpu-server-application-deployment-made-easy/))
 * Use earlier version of TF, which is not recommanded because of known, unpatched CVEs.
-* Use WSL2 (WSL2 has CUDA supports, follow [Windows official instructions] (https://learn.microsoft.com/en-us/windows/ai/directml/gpu-cuda-in-wsl))
+* Use WSL2 (WSL2 has CUDA supports, follow [Windows official instructions](https://learn.microsoft.com/en-us/windows/ai/directml/gpu-cuda-in-wsl))
 
 **!!!Strictly use [tested environment configuration](https://www.tensorflow.org/install/source_windows)!!!**
 > Any mismatch versions of TF, Python, CUDA, cuDNN may cause enviroment error  
