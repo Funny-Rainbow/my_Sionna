@@ -3,7 +3,7 @@
 ## Installation
 **!!! Native Windows Does Not Support NVIDIA GPU Acceleration !!!**  
 Sionna requires Tensorflow>=2.13. However, starting in TF 2.11, CUDA build is not supported for Windows.
->If you want to use CPU environment on Windows, you need to install LLVM >= 11.0 (Latest version does not work, try 18.1.6)
+>If you want to use CPU environment on Windows, you need to install LLVM >= 11.0 (Latest version does not work for me, try 18.1.6)
 
 Possible Solution:
 * Use Linux (Most convenient and recommanded!)
