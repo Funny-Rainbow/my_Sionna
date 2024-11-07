@@ -15,3 +15,4 @@ Possible Solution:
 > Any mismatch versions of TF, Python, CUDA, cuDNN may cause enviroment error  
 > DO NOT change the launguage on TF official websites, any other lauguages except English could be outdated!!!
 
+(2024/Nov.)
